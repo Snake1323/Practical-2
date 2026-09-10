@@ -1,4 +1,5 @@
 Practical Assignment #2
+
 Task 1: Student Profile
 Task 2: Integer Ranges (byte, short, int, long)
 Task 3: Precision of Floating-Point Numbers (float vs. double)
